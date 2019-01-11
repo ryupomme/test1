@@ -1,0 +1,5 @@
+XSS
+<script>
+location.href='https://opentutorials.org/course/';
+//alert('바보');
+</script>
